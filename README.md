@@ -13,7 +13,8 @@ This project aims to generate engaging Instagram ad captions using a fine-tuned 
 
 ### Requisites
 
-- Python 3.10+
+- Google colab to run the notebooks.
+- A Python3 environment using T4 GPU as an accelerator.
 - Required libraries are listed and installed while running the notebooks.
 
 ### Dataset
