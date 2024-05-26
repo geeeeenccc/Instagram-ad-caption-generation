@@ -5,7 +5,6 @@ This project aims to generate engaging Instagram ad captions using a fine-tuned 
 ## Project Structure
 
 - **data/instagram_posts.json**: The dataset containing Instagram ad posts.
-- **images/**: Folder containing example usage images.
 - **eda-of-ig-ad-dataset.ipynb**: Notebook for exploratory data analysis of the Instagram ad dataset.
 - **finetuning-llama.ipynb**: Notebook for fine-tuning the Llama model on the Instagram ad dataset.
 - **llama3-inference.ipynb**: Notebook for generating captions using the fine-tuned Llama model.
