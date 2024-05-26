@@ -11,12 +11,10 @@ This project aims to generate engaging Instagram ad captions using a fine-tuned 
 - **llama3-inference.ipynb**: Notebook for generating captions using the fine-tuned Llama model.
 - **scraping_insta_posts.ipynb**: Script for scraping Instagram ad posts.
 
-## Getting Started
-
-### Prerequisites
+### Requisites
 
 - Python 3.10+
-- Required libraries are listed in `requirements.txt`.
+- Required libraries are listed and installed while running the notebooks.
 
 ### Dataset
 
